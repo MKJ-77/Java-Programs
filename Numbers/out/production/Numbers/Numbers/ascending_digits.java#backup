@@ -1,0 +1,21 @@
+import java.util.*;
+class ascending_digits
+{
+    public void main()
+    {
+        int n,b=0,a ;
+        Scanner sc=new Scanner (System.in);
+        System.out.prin6tln("Enter a no.");
+        n=sc.nextInt();
+        
+        int n1=n ;
+        while (n1!=0) 
+        b=Math.max(n1,b);
+        
+        
+        
+        }
+        
+        
+        
+        
